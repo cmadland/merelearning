@@ -1,0 +1,27 @@
+---
+ID: 5075
+post_title: Looking ahead
+author: Colin
+post_excerpt: ""
+layout: post
+permalink: >
+  http://merelearning.ca/education/looking-ahead/
+published: true
+post_date: 2016-08-03 09:55:06
+---
+<h1>Looking ahead</h1>
+<p>As I look into the ether of what is to come in my professional life, it is hard to not feel a little giddy at the opportunity that I have. It will, however, be too easy to get distracted by what *could* be done, but with little impact, over what *should* be done to build a truly transformative learning environment and experience.</p>
+<p>My colleague and friend, Marie (who just completed her MA in Boss-iness....er...leadership) talks about the dangers of 'Management by Shiny Things'. She has seen good and capable leaders get sidetracked by trying to keep up with the latest tech bling, with little discernible impact on student learning. That isn't to say that tech bling never impacts student learning for the better, just that its deployment matters.</p>
+<p>So, what will I do to avoid MbST?</p>
+<h3>It's the Network, silly...</h3>
+<p>One way to avoid clickyclickyblingbling is to focus relentlessly on the *people* who will ground this initiative. Initially, that network will be those who I know and from whom I can learn and seek advice. Over time, that will change with the addition of people on campus at Trinity (current students, faculty, and staff) who will need to help me contextualize my plans and visions. Then, as the initiative starts to gain traction, I will need to build a team of people to work their own magic, whether that is wrangling the web ferrets, working with faculty to design learning experiences, or supporting students. These people will also add their own experience and network to the mix. If I don't get this right, this goes down with little more than a puff of smoke.</p>
+<h3>Assessment of/for Learning</h3>
+<p>I know of a web-based system that is designed to mimic as closely as possible a paper form. I won't get all judgy here, because the system (mostly) works. But there are some artifacts from the paper system that are absurd in the web system. The point is that using digital learning technologies to prop analog practices (some of which are grossly ineffective anyways) leads to absurdities.</p>
+<p>One of those practices is assessment. Too often, students are *graded* (I didn't say 'assessed') on 'one and done' disposable assignments. If you've been to school, you will recognize the ubiquity of disposable assignments. These are assignments that are imposed upon students, they are likely related to the content of the course, but they are not necessarily meaningfully aligned to any learning outcomes. They are written or created for an audience of one person who has graded thousands of the same assignments. They are given a letter grade and sometimes some comments, returned to the student and either filed in a binder to be forgotten, or they are tossed in the bin.</p>
+<p>And that is why I call them 'one and done'. They are written for one person to read and graded, and then both the teacher and the learner are done. A letter grade is too often a final judgement. It's the end of the conversation, not the beginning.</p>
+<p>Another significant problem with one and done assignments is that their use encourages plagiarism. If a faculty member uses the same assignments year after year, it will not take long for responses to the assignment to be readily available either online or from past students.And we know that when students are stressed (before a deadline) and it is easy to access a shortcut, that shortcut is very difficult to ignore.</p>
+<h3>There is a better way.</h3>
+<p>Renewable assignments are those which rely on OER as well as students doing meaningful, scholarly work, often on the open web. Think about it.The purpose of higher education is to generate and disseminate knowledge. If students are doing their work as a contribution to knowledge in the area, it can't be a one and done assignment.&nbsp; How is the purpose of a university served by having student write yet another descriptive essay or other disposable assignment that will be binned? How much more is it served when students are working on the open web, contributing to the field, and doing it on a domain that they own and control?</p>
+<p><a href="http://cogdogblog.com/2016/08/domains-own/" target="_blank">Alan wrote yesterday</a>&nbsp;about the fact that simply owning a domain doesn't guarantee engagement and persistence. Only 6 (or maybe 7, or maybe 8) of his 81 former DS106 students at UMW are currently active on blogs hosted on their own domains. Initially that seems like a small number, but it is 6-8 more students who have a voice on the web than if DS106 were locked away in an lms. And since Alan's students were involved in a pilot initiative, there were bound to be difficulties. In the last three years or so, we (by that, I mean<a href="http://reclaimhosting.com" target="_blank"> Reclaim Hosting</a>, and <a href="http://splot.ca" target="_blank">SPLOTs</a> and the <a href="http://bcopened.org/" target="_blank">EdTech Collaborative and others</a>) have progressed so that we are much better at deploying and supporting students and faculty as they venture into the world of creating on the web.</p>
+<h3>Creating on the web.</h3>
+<p>That is, in my mind, what I'm at TWU to accomplish. To build confidence and capacity for students and faculty to learn by and through creating on the web.</p>

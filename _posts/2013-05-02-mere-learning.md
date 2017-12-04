@@ -1,0 +1,26 @@
+---
+ID: 58
+post_title: Mere Learning
+author: Colin
+post_excerpt: ""
+layout: post
+permalink: >
+  http://merelearning.ca/education/mere-learning/
+published: true
+post_date: 2013-05-02 10:36:33
+---
+So, this is a blog about learning. I use the term 'mere learning' to refer to the idea that I try to avoid <a title="Ed Tech predictions 2013" href="http://merelearning.ca/education/ed-tech-predictions-2013/">hype</a>, even if I may choose to talk about it from time to time. I think that now, more than ever, or maybe more than sometimes, there is an excessive amount of hype in education, such as <a href="https://www.coursera.org" target="_blank">this</a>, and <a title="Khan Academy" href="http://www.khanacademy.org" target="_blank">this</a> and <a title="Pearson acquires Learning Catalytics" href="http://www.pearsoned.com/pearson-acquires-ed-tech-startup-learning-catalytics/#.UYIChr-yWnk" target="_blank">that over there</a> and not enough of what I'd like to call 'mere learning'.
+
+I have kids in high school and one entering kindergarten this fall. The two older ones (gr. 8 and gr. 10) have experienced a wide variety of schooling contexts beginning with a small private school, then two years of public school in Japan, a year in a catholic school, three years of homeschool and now two years back in public school, one is in an arts school and the other is in a mainstream school. Both are doing well academically and socially. Throughout their diverse experiences in school, across time, context and culture, they /always/ learned something, despite the vast differences in teaching approaches.
+
+When we moved to Japan, they had just finished kindergarten and grade 2 here in Canada and they entered kindergarten and grade 2 halfway through the Japanese school year, which runs April-March. It was astounding how quickly they both learned to speak Japanese with very little intervention from their teachers. Their minds at that age were so very receptive to learning language that, looking back, it seems like it was effortless (perhaps time has smoothed some of the bumps in the road). And this makes me wonder how much we underestimate the power that young kids have to learn languages (plural). Similarly, perhaps we underestimate the power of our undergrad students to tune us out in a lecture. Perhaps with more emphasis on intentional teaching strategies, we could be more effective.
+
+It is these high impact strategies that take students beyond what might be expected as normal cognitive development that comes with age and into the rarified air of mere learning. Mere learning focusses on research and practically tested strategies that actually promote cognitive development. Mere learning is about being wary of fads (remember <a href="http://en.wikipedia.org/wiki/Whole_language" target="_blank">whole language</a>?) and theories that seem intuitively obvious but have zero confirming evidence (see: <a href="http://en.wikipedia.org/wiki/Learning_styles" target="_blank">learning styles</a>). Mere learning is about intentionally designing learning experiences which promote deep approaches to learning activities, recognizing that it is not so much the work that the teacher does that leads to learning (although the teacher's role is critical), but the work that the <em>student</em> does that leads to learning.
+
+I am convinced that education <em>writ large</em> is under threat from VC funded MOOCs, governments who chronically underfund education systems at all levels, the sense of entitlement that is sometimes evident in students who have come to <em>expect</em> 'A' grades simply because they 'worked hard' (and Mommy and Daddy are wealthy donors), and the commodification and privatization of knowledge by massive, for-profit publishers, to name a few.
+
+I am also convinced that there is hope for k-12 and higher education. I am encouraged by the burgeoning <a href="http://www.oercommons.org" target="_blank">open education resources (OER) </a>movement, which, properly implemented, can wrest control of 'curriculum' from the cold hands of multi-national educational publishers and put it in the hands of classroom teachers and their colleagues. I am encouraged by the grassroots, make-it-up-as-we-go-along connectivist theorists and practitioners like <a href="http://bavatuesdays.com" target="_blank">Jim Groom</a>, <a href="http://cogdogblog.com" target="_blank">Alan Levine</a>, <a href="http://abject.ca" target="_blank">Brian Lamb</a>, <a href="http://www.elearnspace.org/blog/" target="_blank">George Seimens</a>, <a href="http://www.downes.ca" target="_blank">Stephen Downes</a>... and many others who are making learning accessible. I am encouraged by the growing emphasis on the scholarship of teaching and learning that is becoming more evident on my campus and many others.
+
+I hope to use this blog as a place for my own thoughtful reflections on how we can improve teaching and learning in k-12 and higher ed in Canada, North America and the world.
+
+I hope you'll join me.
