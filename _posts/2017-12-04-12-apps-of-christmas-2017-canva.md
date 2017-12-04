@@ -16,9 +16,9 @@ Canva is a free (with a Pro upgrade available) mobile and web app (iOS for a whi
 Canva provides thousands of free images, shapes, fonts, icons, and graphics and also allows you to upload your own images. The app also provides premium content items for $1 each. I have been using Canva for multiple years and have never purchased a premium item. This is one app where the free version is robust enough that you can use it and not feel terribly deprived.
 <h4>How it works.</h4>
 You can download the app for your iOS or Android device from the appropriate store, sign up for an account, and start creating! I appreciate how simple Canva makes the whole process.
-<h6>Launch the app and log in</h6>
+<h5>Launch the app and log in</h5>
 <img class="aligncenter size-large wp-image-5189" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4382-576x1024.png" alt="" width="576" height="1024" />
-<h6>Pick a template</h6>
+<h5>Pick a template</h5>
 <img class="aligncenter size-large wp-image-5186" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4385-576x1024.png" alt="" width="576" height="1024" />
 
 &nbsp;
@@ -26,7 +26,7 @@ You can download the app for your iOS or Android device from the appropriate sto
 These are Instagram templates, all sized perfectly for an Instagram post (800x800px). The top two have a '1' and a '2' in the bottom right corner indicating that those designs as you see them contain 1 and 2 premium elements respectively. Choosing the first option will show you which item will cost you $1. In this case (most cases) it is the background photo as indicated by the cross-hatched watermark. Don't worry though, because you can upload your own image, replace this one, and you can use the rest of the elements as they are.
 
 <img class="aligncenter size-large wp-image-5194" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4386-576x1024.png" alt="" width="576" height="1024" />
-<h6>Edit your creation.</h6>
+<h5>Edit your creation.</h5>
 <img class="aligncenter size-large wp-image-5187" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4387-576x1024.png" alt="" width="576" height="1024" />
 
 Again, Canva does an excellent job of making both the app and the web interface extremely easy to use, with guiding bubbles along the way. Some people may need more guiding bubbles than others.
@@ -34,7 +34,7 @@ Again, Canva does an excellent job of making both the app and the web interface 
 You can add elements to the template by clicking the '+' in the bottom right corner. Notice that the image below doesn't have the cross-hatched watermark, meaning this design is free.
 
 <img class="aligncenter size-large wp-image-5191" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4391-576x1024.png" alt="" width="576" height="1024" />
-<h6>Share your work!</h6>
+<h5>Share your work!</h5>
 When you click the 'Share' link in the top right corner, Canva will put its magic web ferrets to work...
 
 <img class="aligncenter size-large wp-image-5184" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4388-576x1024.png" alt="" width="576" height="1024" />
