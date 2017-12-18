@@ -16,6 +16,10 @@ Canva is a free (with a Pro upgrade available) mobile and web app (iOS for a whi
 Canva provides thousands of free images, shapes, fonts, icons, and graphics and also allows you to upload your own images. The app also provides premium content items for $1 each. I have been using Canva for multiple years and have never purchased a premium item. This is one app where the free version is robust enough that you can use it and not feel terribly deprived.
 <h4>How it works.</h4>
 You can download the app for your iOS or Android device from the appropriate store, sign up for an account, and start creating! I appreciate how simple Canva makes the whole process.
+
+* [Apple Store for iOS version](https://itunes.apple.com/au/app/canva-graphic-design-photo-editing/id897446215?mt=8)
+* [Google Play for Android version](https://play.google.com/store/apps/details?id=com.canva.editor)
+
 <h5>Launch the app and log in</h5>
 <img class="aligncenter size-large wp-image-5189" src="http://merelearning.ca/wp-content/uploads/2017/12/IMG_4382-576x1024.png" alt="" width="576" height="1024" />
 <h5>Pick a template</h5>
