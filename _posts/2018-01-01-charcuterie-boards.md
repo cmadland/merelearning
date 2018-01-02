@@ -10,15 +10,12 @@ published: true
 post_date: 2018-01-01 20:04:06
 ---
 <h5>I made a charcuterie board over the holidays.</h5>
-
-Actually, I started out wanting to make a cutting board. An end grain cutting board. <a href="https://www.thenavagepatch.com/end-grain-cutting-board-tutorial/">Inspired by this one</a>. But it turned out so good looking that I'm calling it a charcuterie board.
+Actually, I started out wanting to make a cutting board. An end grain cutting board. [Inspired by this one](https://www.thenavagepatch.com/end-grain-cutting-board-tutorial/). But it turned out so good looking that I'm calling it a charcuterie board.
 
 First up, a shot of the finished product.
 
 <img class="aligncenter size-large wp-image-5255" src="http://merelearning.ca/wp-content/uploads/2018/01/IMG_4501-e1514868295209-768x1024.jpg" alt="" width="768" height="1024" />
-
 <h5>Raw Materials</h5>
-
 <img class="aligncenter size-large wp-image-5257" src="http://merelearning.ca/wp-content/uploads/2018/01/IMG_4437-1024x768.jpg" alt="" width="1024" height="768" />
 
 My dad has been a wood-wizard for a long time and he has a whole mess of scraps lying around the shop, including these pieces of  (l-r) birch, walnut, mahogany, and purple heart. I figured these four species would provide some good contrast to create an interesting design.
@@ -48,9 +45,7 @@ Notice the third strip from the left? Too rough, so I planed it down a little. H
 Next morning, I used a nice sharp chisel to scrape the glue bits off before sending it through the planer.
 
 <img class="aligncenter size-large wp-image-5262" src="http://merelearning.ca/wp-content/uploads/2018/01/IMG_4446-1024x768.jpg" alt="" width="1024" height="768" />
-
 <h5>Cutting strips</h5>
-
 Next step was to cut the glued and planed plank across the grain and into strips.
 
 <img class="aligncenter wp-image-5265 size-large" src="http://merelearning.ca/wp-content/uploads/2018/01/IMG_4454-e1514874582687-768x1024.jpg" alt="" width="768" height="1024" />
