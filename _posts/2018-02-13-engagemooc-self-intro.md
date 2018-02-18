@@ -5,7 +5,7 @@ author: Colin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://merelearning.ca/engagemooc/engagemooc-self-intro/
+  http://merelearning.ca/technology/engagemooc-self-intro/
 published: true
 post_date: 2018-02-13 12:44:13
 ---
