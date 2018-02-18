@@ -5,7 +5,7 @@ author: Colin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://merelearning.ca/engagemooc/random-encounters/
+  http://merelearning.ca/technology/random-encounters/
 published: true
 post_date: 2018-02-13 23:01:07
 ---
