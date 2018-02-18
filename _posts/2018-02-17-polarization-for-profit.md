@@ -8,7 +8,7 @@ post_excerpt: |
   Polarization is by design, for profit.
 layout: post
 permalink: >
-  http://merelearning.ca/engagemooc/polarization-for-profit/
+  http://merelearning.ca/technology/polarization-for-profit/
 published: true
 post_date: 2018-02-17 23:04:12
 ---
