@@ -26,5 +26,6 @@ All that to say, that I think that, like bell hooks said, it is in the little th
 I fear that the technology that I so appreciate for its ability to connect me with people across the world while I sit on my living room couch also has the ability to sow mistrust, and to promote unthinking, shallow caricaturization of 'others'.
 
 &nbsp;
-
-&nbsp;
+<div class="_3bJ2H CHExY">
+<div class="_1l8RX _1ByhS">Photo by <a href="https://unsplash.com/photos/z_uPwxVABsk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Aashish R Gautam</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></div>
+</div>
