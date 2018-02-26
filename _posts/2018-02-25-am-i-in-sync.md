@@ -2,7 +2,7 @@
 ID: 5313
 post_title: Am I in sync?
 author: Colin
-post_excerpt: ""
+post_excerpt: "I've previously written about the learning design workflow that I've worked out for TWU. In short, we need a highly streamlined process..."
 layout: post
 permalink: >
   http://merelearning.ca/technology/am-i-in-sync/
